@@ -11,7 +11,7 @@
 * Resume of Evans Winner
 
 #+BEGIN_CENTER
-951 Buena Vista Dr. SE, K-107 Albuquerque NM 87106 505.410.1546 \\
+951 Buena Vista Dr. SE, K-107 Albuquerque NM 87106 | 505.410.1546 \\
 <[[mailto:ego111@gmail.com]]>
 #+END_CENTER
 
@@ -22,36 +22,47 @@
    of hard- and software issues, understanding of escalation
    procedures and critical / disaster-recovery processes (5 yrs in a
    deadline-based, high-output production environment).  Phone, email
-   and in-person support (1 year phone support for demanding
+   and in-person support (1 year phone support for a demanding
    commercial client. Perfect score on customer service portion of A+
    exam.
  - Web dev for idealstudios.com (1999-2001, now defunct); Albuquerque
    Civic Chorus (2012-2013, volunteer) http://abqchorus.org; Center
    for Infectious Disease and Immunity
-   http://hsc.unm.edu/som/programs/cidi/.
+   http://hsc.unm.edu/som/programs/cidi/ (2008).
+
+** Skills
+
+ - *System administration* (Certifiations: CompTIA A+ 2000; CompTIA
+   Linux+ 2007; CompTIA I-Net+ 2006; Brainbench MS-DOS 6)
+   - Intermediate: IBM midrange
+   - Basic: Linux
+ - *Programming* (Github: https://github.com/EvansWinner)
+   - Intermediate: Common Lisp, Emacs Lisp, Windows batch, HTML, CSS
+   - Basic: CL (IBM Control Language), SQL, C#, awk, Unix / QSHELL
+     scripting
 
 ** Experience
 
 *IS System Administrator I / II* -- Sandia Labs Federal Credit Union,
 Albuquerque NM 7/2008-Pres
 
- - IBM i on PowerSystems admin: AJS job scheduling, BRMS config and
-   mainetencence; PTF and upgrades; backups; process monitoring and
-   general system operations; second-level user and dev support.
+ - IBM i on Power systems administration: AJS job scheduling, BRMS
+   config and mainetencence; PTF and upgrades; backups; process
+   monitoring and general system ops; second-level user and dev
+   support. cSupport / iSupport database.
 
-*Webmaster* -- Center for Infectious Disease and Immunity, Albuquerque
-NM 1/2008-1/2009
+*Webmaster / Database Support* -- Center for Infectious Disease and
+Immunity, Albuquerque NM 1/2008-1/2009
  
- - Web design/maintenence; helpdesk and general IT: CIDI and Tularemia
-   Vaccine Development Contract web page; MS-Access billing db
-   maint. and doc; misc. helpdesk (installs, scanning,
-   troubleshooting, system setup) (CIDI and TVDC were officially
-   separate employers)
+ - Web design / maintenence; helpdesk and general IT: CIDI and
+   Tularemia Vaccine Development Contract web page; MS Access billing
+   db re-design, maintenence and documentation; misc. helpdesk
+   (installs, scanning, troubleshooting, system setup).
 
 *Computer Operator I / II* -- Sur La Table, Inc, Seattle WA
 2/2006-7/2007
 
- - iSeries / Windows system operations: Process and print queue
+ - iSeries / Windows server system operations: Process and print queue
    management, network monitoring; report generation and distribution.
    Support for POS systems, handheld scanners, touch-screen kiosks,
    general Windows XP and Mac OS/X desktop and laptops.
@@ -60,33 +71,33 @@ NM 1/2008-1/2009
    7/2000-11/2005
 
  - AS/400 / eServer midrange operations for payroll processing:
-   Nightly batch jobs for financial transactions, tape and reel
-   backups; misc. processes. Oce 2040 / 750 printer maint.; managed
-   tape library and printer output.  2001 perfect attendance award.
+   Nightly batch jobs for financial transactions, cassette and reel
+   tape backups; misc. processes. Oce 2040 / 750 printer maintenance;
+   managed tape library and printer output.  2001 perfect attendance
+   award.
 
 *Associate Customer Engineer* -- ParTech, Inc., Boulder CO
 6/1999-6/2000
 
  - Customer service-intensive grave shift phone support for
    Thinnet-based POS systems: Fixing operational errors; diagnosing
-   hardware issues with touch-screens, printers, LAN, drives, etc;
+   hardware issues with touch-screens, printers, LAN, drives, etc.;
    setup of network routing and other configuration issues and
-   software upgrades on ParTech's software.  Used NT Workstation and
-   Clarify support database client
+   software upgrades on ParTech's software.  Clarify support database
+   client.
 
 *Computer Lab Monitor* -- University of Colorado, Boulder CO
 1/1999-6/1999
 
- - Monitored university computer music lab. [Temp employee, not
-   work-study]: Support for pine email client in UNIX and other
-   Internet clients on Macintosh; fixing problems with cabling (mostly
-   MIDI-related) and support for MOTU Digital Performer.
+ - Monitored university computer music lab: Support for pine email
+   client in UNIX and other Internet clients on Macintosh; fixing
+   problems with cabling (mostly MIDI-related) and support for MOTU
+   Digital Performer.
 
-** Miscellaneous
+** Education
 
- - Education: BA, English-Philosophy, University of New Mexico, 2010;
-   UNM Continuing Ed courses in C#, SQL and HTML5.
- - Github: https://github.com/EvansWinner
- - Certifiations: CompTIA A+ 2000; CompTIA Linux+ 2007; CompTIA I-Net+
-   2006; Brainbench MS-DOS 6
+ - BA, English-Philosophy, University of New Mexico, 2010, Summa cum
+   laude; College and continuing ed courses in Pascal, C#, SQL, HTML5,
+   digital audio and sound synthesis.
+
 

@@ -1,10 +1,9 @@
 * Resume of Evans Winner
 
-Thank you for taking an interest in my resume.  It can be found in any
-of several formats at its home here on GitHub.  For online reading, I
-recommend resume.html; for printing, the .pdf version, resume.pdf.
+Thank you for taking an interest in my [[https://github.com/EvansWinner/resume-of-evans-winner/blob/master/resume.org][resume]].
 
-If you would like to build the resume from source (why would you?) you
+If you would like a copy of the resume in a different format, you can
+use the code included in this GitHub site and run the Makefile.  You
 will need Emacs 24 with org-mode version 8 or above, and you will need
 pandoc.  You will also need to edit build.el to contain the location
 of org-mode on your system and of the org-mode etc/ directory.
