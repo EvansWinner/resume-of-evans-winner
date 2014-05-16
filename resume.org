@@ -1,11 +1,21 @@
-#+TITLE: Resume of Evans Winner
+#+TITLE: 
+#+OPTIONS: html-postamble:nil
 #+LATEX_HEADER: \usepackage{fullpage}
-#+OPTIONS: toc:nil num:nil author:nil timestamp:nil
+#+LATEX_HEADER_EXTRA: \setlength\parindent{0pt}
+#+OPTIONS: toc:nil num:nil author:nil timestamp:ni
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css.css" />
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css' />
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
 
-951 Buena Vista Dr. SE, K-107 Albuquerque NM 87106 | 505.410.1546 |
-ego111@gmail.com
 
-* Overview
+* Resume of Evans Winner
+
+#+BEGIN_CENTER
+951 Buena Vista Dr. SE, K-107 Albuquerque NM 87106 505.410.1546 \\
+<[[mailto:ego111@gmail.com]]>
+#+END_CENTER
+
+** Overview
 
  - 12+ yrs IBM midrange sysop and sysadmin experience; much
    unsupervised off-shift work requiring independent problem-solving
@@ -16,13 +26,13 @@ ego111@gmail.com
    commercial client. Perfect score on customer service portion of A+
    exam.
  - Web dev for idealstudios.com (1999-2001, now defunct); Albuquerque
-   Civic Chorus (2012-2013, volunteer) [http://abqchorus.org]; Center
+   Civic Chorus (2012-2013, volunteer) http://abqchorus.org; Center
    for Infectious Disease and Immunity
-   [http://hsc.unm.edu/som/programs/cidi/]
+   http://hsc.unm.edu/som/programs/cidi/.
 
-* Experience
+** Experience
 
-*IS System Administrator* -- Sandia Labs Federal Credit Union,
+*IS System Administrator I / II* -- Sandia Labs Federal Credit Union,
 Albuquerque NM 7/2008-Pres
 
  - IBM i on PowerSystems admin: AJS job scheduling, BRMS config and
@@ -72,7 +82,7 @@ NM 1/2008-1/2009
    Internet clients on Macintosh; fixing problems with cabling (mostly
    MIDI-related) and support for MOTU Digital Performer.
 
-* Miscellaneous
+** Miscellaneous
 
  - Education: BA, English-Philosophy, University of New Mexico, 2010;
    UNM Continuing Ed courses in C#, SQL and HTML5.

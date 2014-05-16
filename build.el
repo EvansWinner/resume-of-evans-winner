@@ -17,7 +17,7 @@
 
 (setq format (cadr argv))
 
-(unless (member format '("latex" "ascii" "html" "odt"))
+(unless (member format '("latex" "ascii" "html" "odt" "md"))
   (error "Target format not recognized"))
 
 (require 'ox-publish)
@@ -28,6 +28,10 @@
 (defun render-to-latex ()
   (switch-to-buffer (find-file file))
   (org-latex-export-to-latex))
+
+(defun render-to-markdown ()
+  (switch-to-buffer (find-file file))
+  (org-md-export-to-markdown))
 
 (defun render-to-ascii ()
   (switch-to-buffer (find-file file))
@@ -43,6 +47,8 @@
 
 (cond ((string-equal format "latex") 
        (render-to-latex))
+      ((string-equal format "md")
+       (render-to-markdown))
       ((string-equal format "ascii")
        (render-to-ascii))
       ((string-equal format "html")

@@ -1,9 +1,9 @@
 SOURCE=resume.org
 
-all:	latex pdf ascii html odt docx rtf md
+all:	latex pdf ascii html odt docx rtf md dvi
 
 md:	
-	pandoc --from=org --to=markdown --output=resume.md $(SOURCE)
+	emacs --script build.el $(SOURCE) md
 
 odt:	
 	pandoc --from=org --to=odt --output=resume.odt $(SOURCE)
@@ -14,20 +14,23 @@ html:
 ascii:	
 	emacs --script build.el $(SOURCE) ascii
 
-rtf:	
-	pandoc --standalone --from=org --to=rtf --output=resume.rtf $(SOURCE)
+rtf:	md
+	pandoc --standalone --from=markdown --to=rtf --output=resume.rtf resume.md
 
-docx:	
-	pandoc --from=org --to=docx --output=resume.docx $(SOURCE)
+docx:	md
+	pandoc --from=markdown --to=docx --output=resume.docx resume.md
 
 latex:	
 	emacs --script build.el $(SOURCE) latex
 
+dvi:	latex
+	latex resume.tex
+
 pdf:	latex
-	lualatex resume.tex
+	pdflatex resume.tex
 
 very-clean:	clean
-	rm -rf *.tex *.pdf *.html *.txt *.odt resume.md *.docx *.rtf
+	rm -rf *.tex *.pdf *.html *.txt *.odt resume.md *.docx *.rtf *.dvi
 
 clean:	
 	rm -rf *.aux *.log *.out *.*~
