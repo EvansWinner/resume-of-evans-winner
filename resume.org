@@ -17,7 +17,7 @@
 
 ** Overview
 
- - 12+ yrs IBM midrange sysop and sysadmin experience; much
+ - ~13 yrs IBM midrange sysop and sysadmin experience; much
    unsupervised off-shift work requiring independent problem-solving
    of hard- and software issues, understanding of escalation
    procedures and critical / disaster-recovery processes (5 yrs in a
@@ -25,14 +25,14 @@
    and in-person support (1 year phone support for a demanding
    commercial client. Perfect score on customer service portion of A+
    exam.
- - Web dev for idealstudios.com (1999-2001, now defunct); Albuquerque
-   Civic Chorus (2012-2013, volunteer) http://abqchorus.org; Center
-   for Infectious Disease and Immunity
-   http://hsc.unm.edu/som/programs/cidi/ (2008).
+ - Web dev for Center for Infectious Disease and Immunity
+   http://hsc.unm.edu/som/programs/cidi/ (2008); Albuquerque Civic
+   Chorus (2012-2013, volunteer, complete re-design)
+   http://abqchorus.org; idealstudios.com (1999-2001, now defunct);
 
 ** Skills
 
- - *System administration* (Certifiations: CompTIA A+ 2000; CompTIA
+ - *System administration* (Certifications: CompTIA A+ 2000; CompTIA
    Linux+ 2007; CompTIA I-Net+ 2006; Brainbench MS-DOS 6)
    - Intermediate: IBM midrange
    - Basic: Linux
@@ -43,38 +43,41 @@
 
 ** Experience
 
-*IS System Administrator I / II* -- Sandia Labs Federal Credit Union,
-Albuquerque NM 7/2008-Pres
+*IS System Administrator I / II* -- Sandia Laboratory Federal Credit
+Union, Albuquerque NM 7/2008-Pres
 
- - IBM i on Power systems administration: AJS job scheduling, BRMS
-   config and mainetencence; PTF and upgrades; backups; process
-   monitoring and general system ops; second-level user and dev
-   support. cSupport / iSupport database.
+ - IBM i on Power systems administration, 3 servers: AJS job
+   scheduling (~300 scheduled jobs), BRMS config and maintenance;
+   PTF and upgrades; backups; process monitoring and general system
+   ops; second-level user and dev support with cSupport / iSupport
+   database.
 
 *Webmaster / Database Support* -- Center for Infectious Disease and
 Immunity, Albuquerque NM 1/2008-1/2009
  
- - Web design / maintenence; helpdesk and general IT: CIDI and
-   Tularemia Vaccine Development Contract web page; MS Access billing
-   db re-design, maintenence and documentation; misc. helpdesk
-   (installs, scanning, troubleshooting, system setup).
+ - Web design / maintenance; helpdesk and general IT: CIDI and
+   Tularemia Vaccine Development Contract web page (~20 pages, html,
+   css, Javascript); MS Access billing DB re-design, maintenance and
+   documentation; misc. helpdesk and office assistance (installs,
+   scanning, troubleshooting, system setup).
 
 *Computer Operator I / II* -- Sur La Table, Inc, Seattle WA
 2/2006-7/2007
 
  - iSeries / Windows server system operations: Process and print queue
    management, network monitoring; report generation and distribution.
-   Support for POS systems, handheld scanners, touch-screen kiosks,
-   general Windows XP and Mac OS/X desktop and laptops.
+   Support for POS systems (~60 retail sites), handheld scanners,
+   touch-screen kiosks, general Windows XP and Mac OS/X desktop and
+   laptops.
 
 *Computer Operator* -- Automatic Data Processing, Bothell WA
-   7/2000-11/2005
+7/2000-11/2005
 
- - AS/400 / eServer midrange operations for payroll processing:
-   Nightly batch jobs for financial transactions, cassette and reel
-   tape backups; misc. processes. Oce 2040 / 750 printer maintenance;
-   managed tape library and printer output.  2001 perfect attendance
-   award.
+ - AS/400 / eServer operations for payroll processing: Nightly batch
+   jobs, cassette and reel tape backups (multiple per day); Oce 2040 /
+   750 printer maintenance; tape library (~200 tapes) and printer
+   output (~10,000-~100,000 pages/day) management.  2001 perfect
+   attendance award.
 
 *Associate Customer Engineer* -- ParTech, Inc., Boulder CO
 6/1999-6/2000
@@ -84,20 +87,20 @@ Immunity, Albuquerque NM 1/2008-1/2009
    hardware issues with touch-screens, printers, LAN, drives, etc.;
    setup of network routing and other configuration issues and
    software upgrades on ParTech's software.  Clarify support database
-   client.
+   client.  Closed 10-20 tickets per night.
 
 *Computer Lab Monitor* -- University of Colorado, Boulder CO
 1/1999-6/1999
 
  - Monitored university computer music lab: Support for pine email
-   client in UNIX and other Internet clients on Macintosh; fixing
-   problems with cabling (mostly MIDI-related) and support for MOTU
-   Digital Performer.
+   client in Solaris Unix and other Internet clients on Macintosh;
+   fixing problems with cabling (mostly MIDI-related) and support for
+   MOTU Digital Performer.
 
 ** Education
 
- - BA, English-Philosophy, University of New Mexico, 2010, Summa cum
-   laude; College and continuing ed courses in Pascal, C#, SQL, HTML5,
-   digital audio and sound synthesis.
+ - BA, English-Philosophy, /summa cum laude/. University of New
+   Mexico, 2010; college and continuing ed courses in Pascal, C#, SQL,
+   HTML5, digital audio and sound synthesis.
 
 
