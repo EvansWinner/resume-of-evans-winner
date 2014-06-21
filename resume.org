@@ -32,11 +32,13 @@
 
 ** Skills
 
- - *System administration* (Certifications: CompTIA A+ 2000; CompTIA
-   Linux+ 2007; CompTIA I-Net+ 2006; Brainbench MS-DOS 6)
+ - *System administration*
+   - Certifications: CompTIA **A+** 2000; CompTIA **Linux+** 2007;
+     CompTIA **I-Net+** 2006; Brainbench **MS-DOS 6**
    - Intermediate: IBM midrange
    - Basic: Linux
- - *Programming* (Github: https://github.com/EvansWinner)
+ - *Programming* 
+   - Github: https://github.com/EvansWinner)
    - Intermediate: Common Lisp, Emacs Lisp, Windows batch, HTML, CSS
    - Basic: CL (IBM Control Language), SQL, C#, awk, Unix / QSHELL
      scripting
@@ -47,19 +49,24 @@
 Union, Albuquerque NM 7/2008-Pres
 
  - IBM i on Power systems administration, 3 servers: AJS job
-   scheduling (~300 scheduled jobs), BRMS config and maintenance;
-   PTF and upgrades; backups; process monitoring and general system
-   ops; second-level user and dev support with cSupport / iSupport
-   database.
+   scheduling (~300 scheduled jobs); migrated old IBM jobs to AJS and
+   automated Saturday processing. BRMS config and maintenance; PTF and
+   upgrades; backups; process monitoring and general system ops;
+   second-level user and dev support with cSupport / iSupport
+   database.  Implemented database for tracking tape library (~400
+   tapes) tapes).  Documentation and responsible for operations
+   checklist maintenance; implemented automated build tool for
+   checklists.
 
 *Webmaster / Database Support* -- Center for Infectious Disease and
 Immunity, Albuquerque NM 1/2008-1/2009
  
- - Web design / maintenance; helpdesk and general IT: CIDI and
-   Tularemia Vaccine Development Contract web page (~20 pages, html,
-   css, Javascript); MS Access billing DB re-design, maintenance and
-   documentation; misc. helpdesk and office assistance (installs,
-   scanning, troubleshooting, system setup).
+ - Web design / maintenance; helpdesk and general IT: Cleaned up code
+   and built new pages for CIDI and Tularemia Vaccine Development
+   Contract web pages (~25 pages, html, css, Javascript); re-designed
+   MS Access billing DB (re-built tables, improved UI and refactored
+   VBA code), maintenance and documentation; misc. helpdesk and office
+   assistance (installs, scanning, troubleshooting, system setup).
 
 *Computer Operator I / II* -- Sur La Table, Inc, Seattle WA
 2/2006-7/2007
@@ -83,7 +90,7 @@ Immunity, Albuquerque NM 1/2008-1/2009
 6/1999-6/2000
 
  - Customer service-intensive grave shift phone support for
-   Thinnet-based POS systems: Fixing operational errors; diagnosing
+   Thinnet-based POS systems: Fixed operational errors; diagnosed
    hardware issues with touch-screens, printers, LAN, drives, etc.;
    setup of network routing and other configuration issues and
    software upgrades on ParTech's software.  Clarify support database
@@ -92,10 +99,10 @@ Immunity, Albuquerque NM 1/2008-1/2009
 *Computer Lab Monitor* -- University of Colorado, Boulder CO
 1/1999-6/1999
 
- - Monitored university computer music lab: Support for pine email
-   client in Solaris Unix and other Internet clients on Macintosh;
-   fixing problems with cabling (mostly MIDI-related) and support for
-   MOTU Digital Performer.
+ - Monitored university computer music lab: Support for email clients
+   and basic Unix CLI help in Solaris and other software on Macintosh;
+   fixed problems with cabling (mostly MIDI-related) and application
+   suppot for MOTU Digital Performer.
 
 ** Education
 
