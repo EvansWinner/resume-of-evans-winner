@@ -33,8 +33,8 @@
 ** Skills
 
  - *System administration*
-   - Certifications: CompTIA **A+** 2000; CompTIA **Linux+** 2007;
-     CompTIA **I-Net+** 2006; Brainbench **MS-DOS 6**
+   - Certifications: CompTIA *A+* 2000; CompTIA *Linux+* 2007;
+     CompTIA *I-Net+* 2006; Brainbench *MS-DOS 6*
    - Intermediate: IBM midrange
    - Basic: Linux
  - *Programming* 
