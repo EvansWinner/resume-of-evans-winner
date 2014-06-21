@@ -2,12 +2,13 @@
 
 ;;    $ emacs --script file-to-render type
 
-;; where type is one of pdf, ascii, latex, md or html
+;; where type is one of ascii, latex, md, odt or html
 
 ;; TODO: Get this information automatically.  On a new system, this
 ;; needs to be changed to the location of org-mode
 (push "c:/Users/evansw/.emacs.d/elpa/org-20130919" load-path)
 (setq org-odt-data-dir "c:/Users/evansw/.emacs.d/elpa/org-20130919/etc/")
+
 
 (if (not (= (length argv) 2))
     (error "Wrong number of arguments"))

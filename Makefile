@@ -26,9 +26,10 @@ latex:
 dvi:	latex
 	latex resume.tex
 
-pdf:	latex
+pdf:	
 	pdflatex resume.tex
 
+# Doesn't work properly on Windows without the right rm in the path
 very-clean:	clean
 	rm -rf *.tex *.pdf *.html *.txt *.odt resume.md *.docx *.rtf *.dvi
 
