@@ -1,18 +1,20 @@
 SOURCE=resume.org
+EMACS=c:\Users\thorne\bin\Emacs\bin\emacs.exe
+
 
 all:	latex pdf ascii html odt docx rtf md dvi
 
 md:	
-	emacs --script build.el $(SOURCE) md
+	$(EMACS) --script build.el $(SOURCE) md
 
 odt:	
 	pandoc --from=org --to=odt --output=resume.odt $(SOURCE)
 
 html:	
-	emacs --script build.el $(SOURCE) html
+	$(EMACS) --script build.el $(SOURCE) html
 
-ascii:	
-	emacs --script build.el $(SOURCE) ascii
+ascii:
+	$(EMACS)--script build.el $(SOURCE) ascii
 
 rtf:	md
 	pandoc --standalone --from=markdown --to=rtf --output=resume.rtf resume.md
@@ -21,7 +23,7 @@ docx:	md
 	pandoc --from=markdown --to=docx --output=resume.docx resume.md
 
 latex:	
-	emacs --script build.el $(SOURCE) latex
+	$(EMACS) --script build.el $(SOURCE) latex
 
 dvi:	latex
 	latex resume.tex
