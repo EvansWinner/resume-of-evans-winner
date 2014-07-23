@@ -26,7 +26,7 @@ latex:
 dvi:	latex
 	latex resume.tex
 
-pdf:	
+pdf:	latex
 	pdflatex resume.tex
 
 # Doesn't work properly on Windows without the right rm in the path
