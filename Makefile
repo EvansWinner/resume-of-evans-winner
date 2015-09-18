@@ -1,5 +1,5 @@
 SOURCE=resume.org
-EMACS=c:\Users\thorne\bin\Emacs\bin\emacs.exe
+EMACS="C:\Users\thorne\bin\Emacs\bin\emacs.exe"
 
 
 all:	latex pdf ascii html odt docx rtf md dvi
@@ -14,7 +14,7 @@ html:
 	$(EMACS) --script build.el $(SOURCE) html
 
 ascii:
-	$(EMACS)--script build.el $(SOURCE) ascii
+	$(EMACS) --script build.el $(SOURCE) ascii
 
 rtf:	md
 	pandoc --standalone --from=markdown --to=rtf --output=resume.rtf resume.md
