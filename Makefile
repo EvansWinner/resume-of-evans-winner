@@ -1,6 +1,6 @@
 SOURCE=resume.org
-EMACS="C:\Users\thorne\bin\Emacs\bin\emacs.exe"
-
+#EMACS="C:\Users\thorne\bin\Emacs\bin\emacs.exe"
+EMACS=emacs
 
 all:	latex pdf ascii html odt docx rtf md dvi
 
