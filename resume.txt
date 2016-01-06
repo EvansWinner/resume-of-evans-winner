@@ -1,0 +1,102 @@
+
+
+
+Resume of Evans Winner
+======================
+
+  			     505.410.1546
+  			   ego111@gmail.com
+  		   1925 Pinal Rd. Golden CO, 80401
+
+
+OVERVIEW
+~~~~~~~~
+
+  - ~13 yrs as IBM midrange sysop / sysadmin; much unsupervised
+    off-shift work requiring independent problem-solving of
+    hard/software issues, understanding escalation procedures and
+    critical / disaster recovery processes (5 yrs deadline-based,
+    high-output production environment at a Fortune 500 company [ADP]).
+    Phone, email and in-person support (1 year phone support at a
+    high-throughput commercial helpdesk.) Perfect score on customer
+    service portion of A+ exam.
+  - Web dev: Center for Infectious Disease and Immunity
+    [http://hsc.unm.edu/som/programs/cidi/] (2008); Albuquerque Civic
+    Chorus (2012-2013, volunteer, full re-design)
+    [http://abqchorus.org]; idealstudios.com (1999-2001, now defunct)
+
+
+EXPERIENCE
+~~~~~~~~~~
+
+  *IS System Administrator I / Senior.* Sandia Laboratory Federal Credit
+   Union, Albuquerque NM. 8/2008--2/2015.
+
+  IBM i on Power systems admin, 3 servers: AJS job scheduling (~300
+  scheduled jobs); migrated old IBM jobs to AJS and automated weekend
+  batch processing. BRMS config and maintenance; PTF and upgrades;
+  backups; process monitoring and general system ops; 2nd-level user and
+  dev support with iSupport.  Implemented database for tracking tape
+  library (~400 tapes).  Documentation and responsible for operations
+  checklist maintenance; wrote build tool for checklists.
+
+  *Webmaster / Database Support.* Center for Infectious Disease and
+  Immunity, Albuquerque NM. 1/2008--1/2009.
+
+  Web design / maintenance; helpdesk and general IT: Cleaned up code and
+  built new pages for CIDI and Tularemia Vaccine Development Contract
+  web pages (~25 pages, html, css, Javascript); re-designed MS Access
+  billing DB (re-built tables, improved UI and refactored VBA code),
+  maintenance and documentation; misc. helpdesk and office assistance
+  (installs, scanning, troubleshooting, system setup).
+
+  *Computer Operator I / II.* Sur La Table, Inc, Seattle WA.
+  2/2006--7/2007.
+
+  iSeries / Windows server system operations: Process and print queue
+  management, network monitoring; report generation and distribution.
+  Support for POS systems (~60 retail sites), handheld scanners,
+  touch-screen kiosks, general Windows XP and Mac OS/X desktop and
+  laptops.
+
+  *Computer Operator.* Automatic Data Processing, Bothell WA.
+  7/2000--11/2005.
+
+  AS/400 / eServer operations for payroll processing: Nightly batch
+  jobs, cassette and reel tape backups (multiple per day); Oce 2040 /
+  750 printer maintenance; tape library (~200 tapes) and printer output
+  (~10,000--~100,000 pages/day) management.  2001 perfect attendance
+  award.
+
+  *Associate Customer Engineer.* ParTech, Inc., Boulder
+  CO. 6/1999--6/2000.
+
+  Customer service-intensive grave shift phone support for Thinnet-based
+  POS systems: Fixed operational errors; diagnosed hardware issues with
+  touch-screens, printers, LAN, drives, etc.; setup of network routing
+  and other configuration issues and software upgrades on ParTech's
+  software.  Clarify support database client.  Closed 10-20 tickets per
+  night.
+
+  *Computer Lab Monitor.* University of Colorado, Boulder CO.
+  1/1999--6/1999.
+
+  Monitored university computer music lab: Support for email clients and
+  basic Unix CLI help in Solaris and other software on Macintosh; fixed
+  problems with cabling (mostly MIDI-related) and application suppot for
+  MOTU Digital Performer.
+
+
+OTHER
+~~~~~
+
+  *Certifications:* CompTIA *A+*, *Linux+*, *I-Net+*; Brainbench *MS-DOS
+  6*
+
+  *Programming:* Common Lisp, Emacs Lisp, Windows batch, HTML, CSS
+  (intermediate); CL (IBM Control Language), SQL, C#, awk, Unix / QSHELL
+  scripting (basic).  Github: [https://github.com/EvansWinner]
+
+  *Education:* BA, English-Philosophy, /summa cum laude/. University of
+  New Mexico; college and continuing ed courses in Pascal, C#, SQL,
+  HTML5, digital audio and sound synthesis.
