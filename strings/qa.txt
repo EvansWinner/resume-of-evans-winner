@@ -1,0 +1,1 @@
+Testing of job scheduler jobs on test/dev system prior to job implementation; coordinated all system and software testing for major two-year hardware/OS upgrade on IBM i system and performed job testing and process flow testing [SLFCU].

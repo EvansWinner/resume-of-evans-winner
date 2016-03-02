@@ -1,0 +1,9 @@
+     IBM i on Power systems admin, 3 servers: AJS job
+     scheduling (~300 scheduled jobs); migrated old IBM jobs to AJS
+     and automated weekend batch processing. BRMS config and
+     maintenance; PTF and upgrades; backups; process monitoring and
+     general system ops; 2nd-level user and dev support with
+     iSupport.  Implemented database for tracking
+     tape library (~400 tapes).  Documentation and responsible for
+     operations checklist maintenance; wrote build tool for
+     checklists.

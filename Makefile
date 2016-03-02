@@ -1,39 +1,58 @@
+ifdef SystemRoot
+   RM=c:/gnuwin/bin/rm -f
+   WINDOWS=true
+   EMACS=emacs
+else
+   ifeq ($(shell uname), NetBSD)
+      RM=rm -f
+      EMACS=emacs
+      NETBSD=true
+   else ifeq ($(shell uname -o), Cygwin)
+      RM=rm -f
+      EMACS="C:\Users\thorne\bin\Emacs\bin\emacs.exe"
+      CYGWIN=true
+   endif
+endif
+
 SOURCE=resume.org
-#EMACS="C:\Users\thorne\bin\Emacs\bin\emacs.exe"
-EMACS=emacs
+TARGETS=hist-first sysadmin techwriting dev qa data
 
-all:	latex pdf ascii html odt docx rtf md dvi
 
-md:	
-	$(EMACS) --script build.el $(SOURCE) md
+all: tex pdf ascii html odt docx rtf md dvi
 
-odt:	
-	pandoc --from=org --to=odt --output=resume.odt $(SOURCE)
+org: $(addsuffix .m4,$(TARGETS))
+	m4 $< > $@
 
-html:	
-	$(EMACS) --script build.el $(SOURCE) html
+md: org
+	$(EMACS) --script build.el $< md
 
-ascii:
-	$(EMACS) --script build.el $(SOURCE) ascii
+odt: org
+	pandoc --from=org --to=odt --output=$@ $<
 
-rtf:	md
-	pandoc --standalone --from=markdown --to=rtf --output=resume.rtf resume.md
+html: org
+	$(EMACS) --script build.el $< html
 
-docx:	md
-	pandoc --from=markdown --to=docx --output=resume.docx resume.md
+ascii: org
+	$(EMACS) --script build.el $< ascii
 
-latex:	
-	$(EMACS) --script build.el $(SOURCE) latex
+rtf: md
+	pandoc --standalone --from=markdown --to=rtf --output=$@ $<
 
-dvi:	latex
-	latex resume.tex
+docx: md
+	pandoc --from=markdown --to=docx --output=$@ $<
 
-pdf:	latex
-	pdflatex resume.tex
+tex: org
+	$(EMACS) --script build.el $< latex
+
+dvi: texlatex
+	latex $<
+
+pdf: tex
+	pdflatex $<
 
 # Doesn't work properly on Windows without the right rm in the path
 very-clean:	clean
-	rm -rf *.tex *.pdf *.html *.txt *.odt resume.md *.docx *.rtf *.dvi
+	rm -rf *.tex *.pdf *.html *.txt *.odt resume.md *.docx *.rtf *.dvi *.md *.org
 
 clean:	
 	rm -rf *.aux *.log *.out *.*~

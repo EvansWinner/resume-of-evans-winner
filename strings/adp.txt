@@ -1,0 +1,5 @@
+     AS/400 / eServer operations for payroll processing: Nightly batch
+     jobs, cassette and reel tape backups (multiple per day); Oce 2040
+     / 750 printer maintenance; tape library (~200 tapes) and printer
+     output (~10,000--~100,000 pages/day) management.  2001 perfect
+     attendance award.

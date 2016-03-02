@@ -10,7 +10,7 @@
 (push "c:/Users/evansw/bin/emacs/lisp/org" load-path)
 ;(setq org-odt-data-dir "c:/Users/evansw/.emacs.d/elpa/org-20130919/etc/")
 (require 'org)
-
+(setq make-backup-files nil) 
 
 (if (not (= (length argv) 2))
     (error "Wrong number of arguments"))

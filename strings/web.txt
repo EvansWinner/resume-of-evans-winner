@@ -1,0 +1,1 @@
+Center for Infectious Disease and Immunity http://hsc.unm.edu/som/programs/cidi/ (2008); Albuquerque Civic Chorus (2012-2013, volunteer, full re-design, which has since been completely changed) http://abqchorus.org; idealstudios.com (1999-2001, now defunct).  Mainly cleaned up code and built new pages for CIDI and TVDC web pages (~25 pages, html, css, Javascript).

@@ -1,0 +1,4 @@
+     Monitored university computer music lab: Support for email
+     clients and basic Unix CLI help in Solaris and other software on
+     Macintosh; fixed problems with cabling (mostly MIDI-related) and
+     application suppot for MOTU Digital Performer.

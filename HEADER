@@ -1,0 +1,12 @@
+#+TITLE: 
+#+OPTIONS: html-postamble:nil toc:nil num:nil author:nil timestamp:ni
+#+LaTeX_CLASS: article
+#+LaTeX_CLASS_OPTIONS: [utopia,letterpaper,10pt,microtype,paralist]
+#+LATEX_HEADER: \usepackage[margin=.5in]{geometry}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER_EXTRA: \setlength\parindent{0pt}
+#+LATEX_HEADER_EXTRA: \pagestyle{empty}
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css.css" />
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css' />
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
+

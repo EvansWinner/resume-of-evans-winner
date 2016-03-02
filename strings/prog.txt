@@ -1,0 +1,1 @@
+Wrote build tool for operational checklists [SLFCU]. Some programming ability in Common Lisp, Emacs Lisp, Windows batch, HTML, CSS, and to a lesser extent, CL (IBM Control Language), SQL, C#, awk, Unix / QSHELL scripting.  Github: https://github.com/EvansWinner

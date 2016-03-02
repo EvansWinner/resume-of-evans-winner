@@ -1,0 +1,5 @@
+     iSeries / Windows server system operations: Process and print
+     queue management, network monitoring; report generation and
+     distribution.  Support for POS systems (~60 retail sites),
+     handheld scanners, touch-screen kiosks, general Windows XP and
+     Mac OS/X desktop and laptops.
