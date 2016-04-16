@@ -5,13 +5,13 @@ include(`TITLE')dnl
 ** Background and Skills
 
  - *Database* include(`strings/db.txt')dnl
+ - *Quality Assurance*: include(`strings/qa.txt')dnl
+ - *Documentation and Technical Writing* include(`strings/doc.txt')dnl
  - *Programming* include(`strings/prog.txt')dnl
  - *Web Development* include(`strings/web.txt')dnl	
  - *System Administration* include(`strings/sysadmin.txt')dnl	
- - *Documentation and Technical Writing* include(`strings/doc.txt')dnl
  - *Support* include(`strings/support.txt')dnl
  - *Operations* include(`strings/ops.txt')dnl
- - *Quality Assurance*: include(`strings/qa.txt')dnl
  - *Other* include(`strings/other.txt')dnl
 
 ** Experience

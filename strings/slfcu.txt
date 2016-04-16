@@ -1,4 +1,4 @@
-     IBM i on Power systems admin, 3 servers: AJS job
+     IBM i on PowerSystems admin, 3 physcial systems: AJS job
      scheduling (~300 scheduled jobs); migrated old IBM jobs to AJS
      and automated weekend batch processing. BRMS config and
      maintenance; PTF and upgrades; backups; process monitoring and
