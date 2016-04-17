@@ -4,7 +4,7 @@ include(`TITLE')dnl
 
 ** History
 
-*February 2015---Present* : *Stay-At-Home Parent*
+*2015 February---Present* : *Stay-At-Home Parent*
 
 *slfcu_start---slfcu_end* : *slfcu_title* slfcu_company. Supervisor: slfcu_super. slfcu_address
 
