@@ -2,5 +2,5 @@
      Thinnet-based POS systems: Fixed operational errors; diagnosed
      hardware issues with touch-screens, printers, LAN, drives, etc.;
      setup of network routing and other configuration issues and
-     software upgrades on ParTech's software.  Clarify support
-     database client.  Closed 10-20 tickets per night.
+     software upgrades on ParTech's software.  Closed 10-20 tickets
+     per night.

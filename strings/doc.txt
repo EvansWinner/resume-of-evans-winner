@@ -1,1 +1,8 @@
-Wrote manual for Access-based billing database [CIDI] (tools: Emacs, LaTeX). Developed a template for, wrote and maintained all documentation for job scheduler jobs on internal wiki (tools: Dokuwiki) (300+ pages) [SLFCU]. Managed, wrote and edited all operations department schedules and checklists [SLFCU] (tools: Microsoft Word, then converted to Windows batch-based build tool I developed).  Wrote content for and maintained laboratory web sites [CIDI, TVDC].  Graduated /summa cum laude/ with emphasis in English. 
+Wrote manual for Access-based billing database [CIDI] (tools: Emacs,
+LaTeX). Developed a template for, wrote and maintained all
+documentation for job scheduler jobs on internal wiki (tools:
+Dokuwiki) (300+ pages) [SLFCU]. Managed, wrote and edited all
+operations department schedules and checklists [SLFCU] (tools:
+Microsoft Word, then converted to Windows batch-based build tool I
+developed).  Wrote content for and maintained laboratory web sites
+[CIDI, TVDC].  Graduated /summa cum laude/ with emphasis in English.

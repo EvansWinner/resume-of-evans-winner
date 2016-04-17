@@ -1,0 +1,7 @@
+Email clients used and supported: Lotus Notes, MS Outlook; Ticketing
+software used: Clarify, TrackIt, iSupport / cSupport; Office software
+used and supported: Excel, Word; Development tools used: Aldon SCM,
+Emacs.
+
+
+

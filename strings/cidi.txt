@@ -1,5 +1,5 @@
      Web design / maintenance; cleaned up code and built new pages for
      CIDI and Tularemia Vaccine Development Contract web pages (~25
      pages, html, css, Javascript); re-designed MS Access billing DB
-     (re-built tables, improved UI and refactored VBA code),
-     maintenance and documentation.
+     (re-built tables, improved UI and refactored VBA code, wrote
+     maintenance manual [tools: Emacs, LaTeX]). Part time.

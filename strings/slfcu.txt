@@ -1,9 +1,19 @@
-     IBM i on PowerSystems admin, 3 physcial systems: AJS job
-     scheduling (~300 scheduled jobs); migrated old IBM jobs to AJS
-     and automated weekend batch processing. BRMS config and
-     maintenance; PTF and upgrades; backups; process monitoring and
-     general system ops; 2nd-level user and dev support with
-     iSupport.  Implemented database for tracking
-     tape library (~400 tapes).  Documentation and responsible for
+     IBM i on Power Systems admin, 3 physical systems.  Primary
+     responsibility for job scheduling (~300 scheduled jobs); migrated
+     old IBM WRKJOBSCD jobs to AJS and automated weekend batch
+     processing. BRMS config and maintenance; PTF and upgrades;
+     backups; process and Mimix monitoring and general system
+     ops. Some light sysadmin on Windows Server (reboots, monitoring,
+     job scheduling) and IVR. 2nd-level user and dev support. Manual
+     (DFU) and SQL edits on live data. Application administration for
+     Zend Server, McAfee Antivirus for IBM i. Application support for
+     Solcom document imaging software. Implemented database for
+     tracking tape library (~400 tapes). System resource monitoring
+     and reporting (Gnuplot). Documentation and responsible for
      operations checklist maintenance; wrote build tool for
-     checklists.
+     checklists. Developed a template for, wrote and maintained all
+     documentation for job scheduler jobs on internal Dokuwiki wiki
+     (300+ pages).  Project lead for major hardware/OS upgrade (to 7.1
+     on Power 6) on IBM i including research, testing (system,
+     applications, job and process flow) and coordination between Dev,
+     Ops and QA.

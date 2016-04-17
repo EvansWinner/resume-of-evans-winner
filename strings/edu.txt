@@ -1,1 +1,9 @@
-BA, English-Philosophy, /summa cum laude/. University of New Mexico, 2010; college and continuing ed courses in Pascal, C#, SQL, HTML5, digital audio and sound synthesis.
+*BA, English-Philosophy, /summa cum laude./* University of New Mexico,
+2010, including coursework in *Symbolic Logic*; University of Colorado,
+late 1990s, coursework in digital synthesis and electronic music;
+Introduction to *C#* Programming (UNM Continuing Education, Nov 2012);
+Introduction to *SQL* Programming (UNM Continuing Education, Nov,
+2012); Creating Mobile Apps with *HTML5* (UNM Continuing Education,
+Nov, 2012); *Pascal* (University of Denver, RMTS, 1985).
+
+

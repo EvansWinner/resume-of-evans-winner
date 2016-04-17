@@ -2,40 +2,58 @@ include(`db.m4')dnl
 include(`HEADER')dnl
 include(`TITLE')dnl
 
-** Experience
+** History
 
-*slfcu_title* slfcu_company slfcu_address; slfcu_start---slfcu_end
+*February 2015---Present* : *Stay-At-Home Parent*
+
+*slfcu_start---slfcu_end* : *slfcu_title* slfcu_company. Supervisor: slfcu_super. slfcu_address
 
 include(`strings/slfcu.txt')dnl
 
-*cidi_title* cidi_company cidi_address; cidi_start---cidi_end
+*cidi_start---cidi_end* : *cidi_title* cidi_company. Supervisor: cidi_super. cidi_address
 
 include(`strings/cidi.txt')dnl
 
-*tvdc_title* tvdc_company tvdc_address; tvdc_start---tvdc_end
+*tvdc_start---tvdc_end* : *tvdc_title* tvdc_company. Supervisor: tvdc_super.  tvdc_address
 
 include(`strings/tvdc.txt')dnl
 
-*slt_title* slt_company slt_address; slt_start---slt_end
+*slt_start---slt_end* : *slt_title* slt_company. Supervisor: slt_super.  slt_address
 
 include(`strings/slt.txt')dnl
 
-*adp_title* adp_company adp_address; adp_start---adp_end
+*adp_start---adp_end* : *adp_title* adp_company. Supervisor: adp_super.  adp_address
 
 include(`strings/adp.txt')dnl
 
-*par_title* par_company par_address; par_start---par_end
+*par_start---par_end* : *par_title* par_company. Supervisor: par_super.  par_address
 
 include(`strings/par.txt')dnl
 
-*cu_title* cu_company cu_address; cu_start---cu_end
+*cu_start---cu_end* : *cu_title* cu_company. Supervisor: cu_super.  cu_address
 
 include(`strings/cu.txt')dnl
 
+** Other/Volunteer Experience
+
+include(`strings/volunteer.txt')dnl
+
+** Other Software/Systems Experience
+
+include(`strings/software.txt')dnl
+
+** Programming
+
+include(`strings/lang.txt')dnl
+
+** Certifications
+
+include(`strings/certs.txt')dnl
+
+** Education
+
+include(`strings/edu.txt')dnl
+
 ** Other
 
-*Certifications:* include(`strings/certs.txt')dnl
-
-*Programming:* include(`strings/lang.txt')dnl
-
-*Educaction:* include(`strings/edu.txt')dnl
+include(`strings/other.txt')dnl

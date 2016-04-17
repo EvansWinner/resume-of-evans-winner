@@ -1,3 +1,5 @@
-Common Lisp, Emacs Lisp, Windows batch, HTML, CSS (intermediate); CL
-(IBM Control Language), SQL, C#, awk, Unix / QSHELL scripting (basic).
-Github: https://github.com/EvansWinner
+Used professionally: *HTML*, *CSS*, *SQL* (and occasionally
+Javascript, Unix / QSHELL scripting, CL (IBM Control Language),
+DOS/Windows Batch, awk, VBA and Emacs Lisp).  Some non-professional
+and/or academic experience with Common Lisp, C#, and Pascal. Github:
+https://github.com/EvansWinner

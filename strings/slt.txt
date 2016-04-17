@@ -1,5 +1,13 @@
-     iSeries / Windows server system operations: Process and print
-     queue management, network monitoring; report generation and
-     distribution.  Support for POS systems (~60 retail sites),
+     iSeries / System i / Windows Server 2003 system operations and
+     company-wide tier 1 support: Submitting, monitoring and
+     manipulating processes; monitoring network, print queues, IBM MQ;
+     report generation and distribution; limited-scope systems
+     administration services (saves, IPLs, user account setup, etc);
+     phone, email, desktop-share (pcAnywhere) and in-person support
+     for Tradewind POS software (appx. 60 retail sites), Palm-based
      handheld scanners, touch-screen kiosks, general Windows XP and
-     Mac OS/X desktop and laptops.
+     Mac OS/X desktop and laptops, Island Pacific / CommercialWare
+     software in System i, green screen / GUI clients, network
+     password issues (Active Directory client), Outlook, network and
+     VPN connectivity, Monarch & other ticket printers, telephone &
+     VoIP systems.
