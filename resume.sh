@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/local/pkg/bin/bash
 
 FORMATS="md org odt html ascii latex rtf docx dvi pdf"
 RESUMES="hist-first sysadmin techwriting dev qa data"

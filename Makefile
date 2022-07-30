@@ -1,20 +1,8 @@
-ifdef SystemRoot
-   RM=c:/gnuwin/bin/rm -f
-   WINDOWS=true
-   EMACS=emacs
-else
-   ifeq ($(shell uname), NetBSD)
-      RM=rm -f
-      EMACS=emacs
-      NETBSD=true
-   else ifeq ($(shell uname -o), Cygwin)
-      RM=rm -f
-      EMACS="C:\Users\thorne\bin\Emacs\bin\emacs.exe"
-      CYGWIN=true
-   endif
-endif
+RM=rm -f
+EMACS=emacs
+NETBSD=true
 
-SOURCE=resume.org
+nSOURCE=resume.org
 TARGETS=hist-first sysadmin techwriting dev qa data
 
 
@@ -55,4 +43,4 @@ very-clean:	clean
 	rm -rf *.tex *.pdf *.html *.txt *.odt resume.md *.docx *.rtf *.dvi *.md *.org
 
 clean:	
-	rm -rf *.aux *.log *.out *.*~
+	rm -rf *.aux *.log *.out *.*~ *~ *.pdf *.tex *.org
